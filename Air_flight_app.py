@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 import sklearn
-
+import category_encoders
 
 st.markdown("<h1 style='text-align: center; color: grey;'>Air Flights Tickets Price Prediction</h1>", unsafe_allow_html=True)
 st.title(' ')
